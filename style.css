@@ -555,7 +555,7 @@ footer .div{
     }
 
     .category-objects{
-        padding: 0px 205px;
+        padding: 0;
         flex-direction: column;
         gap: 17px;
         height: fit-content;
